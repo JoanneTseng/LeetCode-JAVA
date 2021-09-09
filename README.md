@@ -1,3 +1,3 @@
 #
-LeetCode JAVA 刷題紀錄
+LeetCode JAVA 刷題和學習紀錄
 
